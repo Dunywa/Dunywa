@@ -90,7 +90,6 @@
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Administrator-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Certified%20Cybersecurity%20Defense%20Analyst-4B275F?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSI%20Linux%20Certified%20Investigator-005571?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Microsoft%20Security%20Operations%20Analyst-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
