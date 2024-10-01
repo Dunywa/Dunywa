@@ -8,11 +8,11 @@
 
 ## About me
 
-👨🏾‍💻 I'm a dedicated IT Support Technician passionate about leveraging technology to solve problems and enhance productivity. With a solid foundation in IT infrastructure and a knack for troubleshooting, I thrive in dynamic environments where I can apply my skills to provide technical support and ensure smooth operations.
+👨🏾‍💻 A hands-on IT Support Technician, responsible for maintaining the availability and uptime of your IT resources and infrastructure. I am proficient in Help Desk Support, Office 365, Troubleshooting, Windows Server, Azure, Active Directory, Customer Service, and other skills necessary for an IT Support Technician role.
 
 💻 In my role, I specialize in diagnosing and resolving hardware and software issues, deploying and configuring systems, and providing technical assistance to end-users. Whether it's setting up workstations, troubleshooting network connectivity issues, or assisting with software installations, I'm committed to delivering prompt and reliable support to keep systems running smoothly.
 
-📚 Continuous learning is important to me, and I'm always eager to expand my knowledge and stay updated with the latest trends and technologies in the IT industry. I'm constantly seeking new challenges and opportunities to grow both personally and professionally.
+📚 Continuous learning is important to me, and I'm always eager to expand my knowledge and stay updated with the latest trends and technologies in the IT industry. I'm constantly seeking new challenges and opportunities to grow personally and professionally.
 
 ## Objectives
 💾The objective of my portfolio is to showcase my skills, experience, and passion for IT. I aim to demonstrate my proficiency in providing technical assistance, troubleshooting hardware and software issues, and managing IT infrastructure. Additionally, I seek to contribute to open-source projects, collaborate with peers, and continually expand my knowledge in IT support. Ultimately, I aim to establish myself as a valuable asset in the IT industry and make meaningful contributions to projects that drive innovation and efficiency."
@@ -64,12 +64,6 @@
     <img src="https://img.shields.io/badge/-Group%20Policy-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-<div>
-
-### Linux Server Administration
-<div>
-    <img src="https://img.shields.io/badge/-CSI_Linux-4B275F?&style=for-the-badge&logo=CSI_Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" />
 <div>
 
 ### Identity and Access Management
