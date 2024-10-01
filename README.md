@@ -3,7 +3,6 @@
 ## 👋Hi, I'm Mvula Dunywa.
 
 <a href="https://www.linkedin.com/in/mvuladunywa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@mvuladunywa"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
 
 
 ## About me
@@ -22,9 +21,10 @@
 |  Category                |     Project          |                 Skills                          |     Tools                      | Lessons Learned                                                             |     
 |---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
 |Help Desk Support         | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN, VNC|Setting up remote support tools and supporting remote users                                                                            |
-|Active Directory          | Active Directory Management|Windows client domain join, Active Directory Deployment, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|                                |Managing organisational units users, groups, and computers using Active Directory|    
+|Active Directory          | Active Directory Management|Active Directory Deployment, Windows client domain join, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|                                |Managing organisational units users, groups, and computers using Active Directory|    
 |Windows Server Admin      |Windows Server Deployment|Virtualization, Server Administration, Networking Services|Windows Server 2022 Core, VMWare, DNS, DHCP| Deploying Windows Servers in a virtualized environment|
 |End User Training         |Office 365 Training Program |User Training, Office 365 suite  |Zoom, Outlook, Word, Teams| Training users on using office 365 tools                                                                              |
+|Help Desk Support         |Ticketing System and Documentation|Ticketing system Deployment, Ticket Management and Documentation, Maintaining a knowledgebase|                                      |                                           |                             |               
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tools
 
