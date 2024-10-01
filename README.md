@@ -19,17 +19,17 @@
 
 
 ## Projects Overview
-|  Category           |     Project     |                 Skills                |     Tools       | Lessons Learned  |     
-|---------------------| --------------- | ------------------------------------- | --------------- | -------------------|
-|                     | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|                     |
-|                     |  <a href="https://google.com">Detection Lab</a>|              |                                       |                 |                 |   
-|                     |                 |                                       |                 |                      |
+|  Category                |     Project          |                 Skills                          |     Tools                      | Lessons Learned                                                             |     
+|---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
+|Help Desk Support         | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN, VNC|Setting up remote support tools and supporting remote users                                                                            |
+|Active Directory          | Active Directory Management|Windows client domain join, Active Directory Deployment, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|                                |Managing organisational units users, groups, and computers using Active Directory|    
+|Windows Server Admin      |Windows Server Deployment|                                                 |Windows Server 2022 Core, VMWare | Deploying Windows Server                                                                             |
+|End User Training         |Office 365 Training Program |User Training, Office 365 suite  |Zoom, Outlook, Word, Teams| Training users on using office 365 tools                                                                              |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tools
 
-### Endpoint Administration
+### Configuration Management
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-SCCM-0078D6?&style=for-the-badge&logo=Microsoft%20System%20Center%20Configuration%20Manager&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Intune-0078D6?&style=for-the-badge&logo=Microsoft%20Intune&logoColor=white" />
@@ -66,13 +66,19 @@
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 <div>
 
-### Identity and Access Management
+### Active Directory
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20AD-0089D6?&style=for-the-badge&logo=Microsoft%20Azure%20Active%20Directory&logoColor=white" />   
 <div>
 
-### Scripting and Automation
+### Office 365
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+<div>
+
+### End User Training
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
