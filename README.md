@@ -17,7 +17,7 @@
 💾The objective of my portfolio is to showcase my skills, experience, and passion for IT. I aim to demonstrate my proficiency in providing technical assistance, troubleshooting hardware and software issues, and managing IT infrastructure. Additionally, I seek to contribute to open-source projects, collaborate with peers, and continually expand my knowledge in IT support. Ultimately, I aim to establish myself as a valuable asset in the IT industry and make meaningful contributions to projects that drive innovation and efficiency."
 
 
-## Projects Overview
+### Projects Overview
 |  Category                |     Project          |                 Skills                          |     Tools                      | Lessons Learned                                                             |     
 |---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
 |Help Desk Support         | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN|Setting up remote support tools and supporting remote users                                                                            |
@@ -26,10 +26,29 @@
 |End User Training         |Office 365 and Zoom Training Program |User Training, Office 365 suite  |Zoom, Outlook, Word, Teams, Sharepoint, Onedrive| Training users on using collaboration tools                                                                              |
 |Help Desk Support         |Ticketing System Deployment and Technical Documentation|Ticketing system Deployment, Ticket Management, Documentation, and Maintaining a Knowledgebase |Jira, Spiceworks, Peppermint, ServiceNow|Deploying a self-hosted ticketing system using docker image, Managing tickets, and doing Thorough Documentation.                                            |              
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Tools
+
+### 🧰 Languages and Tools
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
+#
 
+### 📺 Latest YouTube Videos
 
 
 
