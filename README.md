@@ -7,7 +7,7 @@
 
 ## About me
 
-👨🏾‍💻 A hands-on IT Support Technician, responsible for maintaining the availability and uptime of your IT resources and infrastructure. I am proficient in Help Desk Support, Office 365, Troubleshooting, Windows Server, Azure, Active Directory, Customer Service, and other skills necessary for an IT Support Technician role.
+👨🏽‍💻 A hands-on IT Support Technician, responsible for maintaining the availability and uptime of your IT resources and infrastructure. I am proficient in Help Desk Support, Office 365, Troubleshooting, Windows Server, Azure, Active Directory, Customer Service, and other skills necessary for an IT Support Technician role.
 
 💻 In my role, I specialize in diagnosing and resolving hardware and software issues, deploying and configuring systems, and providing technical assistance to end-users. Whether setting up workstations, troubleshooting network connectivity issues, or assisting with software installations, I'm committed to delivering prompt and reliable support to keep systems running smoothly.
 
@@ -63,7 +63,6 @@
 </div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 |  Category                                               |     Completion       |                 Skills                          |             Link                         |
 |---------------------                                    |      --------------- | -------------------------------------           | ---------------------------------------  |
 |Microsoft Certified: Azure Administrator Associate       |                      |                                                 |                                          |
