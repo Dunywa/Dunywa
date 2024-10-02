@@ -9,7 +9,7 @@
 
 👨🏾‍💻 A hands-on IT Support Technician, responsible for maintaining the availability and uptime of your IT resources and infrastructure. I am proficient in Help Desk Support, Office 365, Troubleshooting, Windows Server, Azure, Active Directory, Customer Service, and other skills necessary for an IT Support Technician role.
 
-💻 In my role, I specialize in diagnosing and resolving hardware and software issues, deploying and configuring systems, and providing technical assistance to end-users. Whether it's setting up workstations, troubleshooting network connectivity issues, or assisting with software installations, I'm committed to delivering prompt and reliable support to keep systems running smoothly.
+💻 In my role, I specialize in diagnosing and resolving hardware and software issues, deploying and configuring systems, and providing technical assistance to end-users. Whether setting up workstations, troubleshooting network connectivity issues, or assisting with software installations, I'm committed to delivering prompt and reliable support to keep systems running smoothly.
 
 📚 Continuous learning is important to me, and I'm always eager to expand my knowledge and stay updated with the latest trends and technologies in the IT industry. I'm constantly seeking new challenges and opportunities to grow personally and professionally.
 
@@ -20,11 +20,11 @@
 ## Projects Overview
 |  Category                |     Project          |                 Skills                          |     Tools                      | Lessons Learned                                                             |     
 |---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
-|Help Desk Support         | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN, VNC|Setting up remote support tools and supporting remote users                                                                            |
+|Help Desk Support         | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN|Setting up remote support tools and supporting remote users                                                                            |
 |Active Directory          | Active Directory Management|Active Directory Deployment, Windows client domain join, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|Windows 10/11, Active Directory, Group Policy|Managing organisational units users, groups, and computers using Active Directory|    
 |Windows Server Admin      |Windows Server Deployment|Virtualization,Windows Server Administration,Windows Server Networking Services|Windows Server 2022 Core, VMWare, DNS, DHCP| Deploying Windows Servers in a virtualized environment|
 |End User Training         |Office 365 and Zoom Training Program |User Training, Office 365 suite  |Zoom, Outlook, Word, Teams, Sharepoint, Onedrive| Training users on using collaboration tools                                                                              |
-|Help Desk Support         |Ticketing System and Technical Documentation|Ticketing system Deployment, Ticket Management and Documentation, Maintaining a knowledgebase|                                      |                                           |                             |               
+|Help Desk Support         |Ticketing System Deployment and Technical Documentation|Ticketing system Deployment, Ticket Management, Documentation, and Maintaining a Knowledgebase |Jira, Spiceworks, Peppermint, ServiceNow|Deploying a self-hosted ticketing system using docker image, Managing tickets, and doing Thorough Documentation.                                            |              
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tools
 
