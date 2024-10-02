@@ -27,62 +27,11 @@
 |Help Desk Support         |Ticketing System Deployment and Technical Documentation|Ticketing system Deployment, Ticket Management, Documentation, and Maintaining a Knowledgebase |Jira, Spiceworks, Peppermint, ServiceNow|Deploying a self-hosted ticketing system using docker image, Managing tickets, and doing Thorough Documentation.                                            |              
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-### Configuration Management
-<div>
-    <img src="https://img.shields.io/badge/-SCCM-0078D6?&style=for-the-badge&logo=Microsoft%20System%20Center%20Configuration%20Manager&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Intune-0078D6?&style=for-the-badge&logo=Microsoft%20Intune&logoColor=white" />
 
-</div>
 
-### Help Desk Support
-<div>
 
-   <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
-   <img src="https://img.shields.io/badge/-PuTTY-005C95?&style=for-the-badge&logo=PuTTY&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Remote%20Desktop-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-<div>
-
-### Azure Administration
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
-
-### Microsoft 365 Administration
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?&style=for-the-badge&logo=Microsoft%20Teams&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20SharePoint-0078D4?&style=for-the-badge&logo=Microsoft%20SharePoint&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?&style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Exchange%20Online-0078D4?&style=for-the-badge&logo=Microsoft%20Exchange&logoColor=white" />
-<div>
-
-### Windows Server Administration
-<div>
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Group%20Policy-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows%20Server%202022-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-<div>
-
-### Active Directory
-<div>
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20AD-0089D6?&style=for-the-badge&logo=Microsoft%20Azure%20Active%20Directory&logoColor=white" />   
-<div>
-
-### Office 365
-<div>
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
-<div>
-
-### End User Training
-<div>
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
-<div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -99,3 +48,11 @@
 
 </div>
 
+## Projects Overview
+|  Category                |     Project          |                 Skills                          |     Tools                      | Lessons Learned                                                             |     
+|---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
+|                          |                   |||                                                                           |
+|Active Directory          | Active Directory Management|Active Directory Deployment, Windows client domain join, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|Windows Server 2022, Windows 10/11, Active Directory, Group Policy|Managing organisational units users, groups, and computers using Active Directory|    
+|Windows Server Admin      |Windows Server Deployment|Virtualization,Windows Server Administration,Windows Server Networking Services|Windows Server 2022 Core, VMWare, DNS, DHCP| Deploying Windows Servers in a virtualized environment|
+|End User Training         |Office 365 and Zoom Training Program |User Training, Office 365 suite  |Zoom, Outlook, Word, Teams, Sharepoint, Onedrive| Training users on using collaboration tools                                                                              |
+|Help Desk Support         |Ticketing System Deployment and Technical Documentation|Ticketing system Deployment, Ticket Management, Documentation, and Maintaining a Knowledgebase |Jira, Spiceworks, Peppermint, ServiceNow|Deploying a self-hosted ticketing system using docker image, Managing tickets, and doing Thorough Documentation.                                            |              
