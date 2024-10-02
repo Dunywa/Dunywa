@@ -50,6 +50,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Certifications
+
+### Certification Badges
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Administrator-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Certified%20Cybersecurity%20Defense%20Analyst-4B275F?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -58,11 +60,11 @@
 <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate%20Cybersecurity-5172B4?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_IT_Support-4B275F?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Qualys Vulnerability Management Detection & Response](https://img.shields.io/badge/Qualys%20Vulnerability%20Management%20Detection%20%26%20Response-red
+<img src="https://img.shields.io/badge/Qualys%20Vulnerability%20Management%20Detection%20%26%20Response-red" />
     
 </div>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Certification Journey
 |  Category                                               |     Completion       |                 Skills                          |             Link                         |
 |---------------------                                    |      --------------- | -------------------------------------           | ---------------------------------------  |
 |Microsoft Certified: Azure Administrator Associate       |                      |                                                 |                                          |
