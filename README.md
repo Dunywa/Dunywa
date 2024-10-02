@@ -73,8 +73,4 @@
 |Fortinet Certified: Cybersecurity Associate              |                      |                                                 |                                          |
 |Google IT Support                                        |                      |                                                 |                                          |
 |Qualys Vulnerability Management Detection And Response   |                      | 
-|                                                         |                      | 
-|                                                         |                      |
-|                                                         |                      |
-|                                                         |
-|
+|Qualys Patch Management                                  |                      | 
