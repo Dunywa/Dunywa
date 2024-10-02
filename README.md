@@ -71,9 +71,9 @@
 |Microsoft Certified: Azure Administrator Associate       |                      |                                                 |                                          |
 |Fortinet Certified: Cybersecurity Associate              |                      |                                                 |                                          |
 |Google IT Support                                        |                      |                                                 |                                          |
-|                                                         |
-|                                                         |
-|                                                         |
-|                                                         |
+|                                                        |                      | 
+|                                                         |                      | 
+|                                                         |                      |
+|                                                         |                      |
 |                                                         |
 |
