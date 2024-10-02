@@ -59,12 +59,10 @@
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_IT_Support-4B275F?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qualys Vulnerability Management Detection & Response](https://img.shields.io/badge/Qualys%20Vulnerability%20Management%20Detection%20%26%20Response-red
-
-
+    
 </div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 |  Category                                               |     Completion       |                 Skills                          |             Link                         |
 |---------------------                                    |      --------------- | -------------------------------------           | ---------------------------------------  |
