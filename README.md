@@ -20,13 +20,16 @@
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="left" alt="Microsoft 365" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_365_logo_%282022%29.svg" />
-<img align="left" alt="Cisco" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cisco_logo_blue_2016.svg" />
-<img align="left" alt="Windows Server" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Windows_Server_logo.svg" />
-<img align="left" alt="Veeam" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/veeam.svg" />
-<img align="left" alt="Atera" width="50px" style="padding-right:10px;" src="https://brandfetch.com/logo/atera.io/svg" />
-<img align="left" alt="AnyDesk" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/88/AnyDesk_logo.svg" />
-<img align="left" alt="Mac" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" />
+<img align="left" alt="Office 365" width="50px" style="padding-right:10px;" src="https://icon-library.com/images/office-365-icon/office-365-icon-23.jpg" />
+<img align="left" alt="Microsoft 365" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft365/microsoft365-original.svg" />
+<img align="left" alt="PowerShell" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+<img align="left" alt="VMware" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" />
+<img align="left" alt="PFsense" width="50px" style="padding-right:10px;" src="https://www.pfsense.org/wp-content/uploads/logo-pfsense.png" />
+<img align="left" alt="Windows 10" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
 
                            
 
