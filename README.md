@@ -20,14 +20,14 @@
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="left" alt="CentOS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
-<img align="left" alt="Windows 11" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />         
-<img align="left" alt="Filezilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
-<img align="left" alt="Powershell" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Microsoft 365" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_365_logo_%282022%29.svg" />
+<img align="left" alt="Cisco" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cisco_logo_blue_2016.svg" />
+<img align="left" alt="Windows Server" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Windows_Server_logo.svg" />
+<img align="left" alt="Veeam" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/veeam.svg" />
+<img align="left" alt="Atera" width="50px" style="padding-right:10px;" src="https://brandfetch.com/logo/atera.io/svg" />
+<img align="left" alt="AnyDesk" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/88/AnyDesk_logo.svg" />
+<img align="left" alt="Mac" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" />
+
                            
 
 <br />
