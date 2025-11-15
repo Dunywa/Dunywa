@@ -1,13 +1,13 @@
 # IT Support Technician Portfolio
 
-## 👋Hi, I'm Mvula Dunywa.
+## 👋Hi, this is Mvula Dunywa.
 
 <a href="https://www.linkedin.com/in/mvuladunywa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ## About me
 
-👨🏽‍💻 A hands-on IT Support Technician, responsible for maintaining the availability and uptime of your IT resources and infrastructure. I am proficient in Help Desk Support, Office 365, Troubleshooting, Windows Server, Azure, Active Directory, Customer Service, and other skills necessary for an IT Support Technician role.
+👨🏽‍💻 A hands-on IT Support Technician, responsible for maintaining the availability and uptime of your IT resources and infrastructure. I am proficient in Help Desk Support, Microsoft 365, Networking, Windows Server, Azure, Active Directory, Customer Service, and other skills necessary for an IT Support Technician role.
 
 💻 In my role, I specialize in diagnosing and resolving hardware and software issues, deploying and configuring systems, and providing technical assistance to end-users. Whether setting up workstations, troubleshooting network connectivity issues, or assisting with software installations, I'm committed to delivering prompt and reliable support to keep systems running smoothly.
 
@@ -21,17 +21,26 @@
 
 <img align="left" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img align="left" alt="Office 365" width="50px" style="padding-right:10px;" src="https://icon-library.com/images/office-365-icon/office-365-icon-23.jpg" />
-<img align="left" alt="Microsoft 365" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft365/microsoft365-original.svg" />
+<img align="left" alt="Windows" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Microsoft Office" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="PowerShell" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-<img align="left" alt="VMware" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" />
-<img align="left" alt="PFsense" width="50px" style="padding-right:10px;" src="https://www.pfsense.org/wp-content/uploads/logo-pfsense.png" />
-<img align="left" alt="Windows 10" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git"           width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux"         width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash"          width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Fortinet / FortiGate" width="50px" style="padding-right:10px;" src="https://cdn.simpleicons.org/fortinet/EE3124" />
+<img align="left" alt="pfSense" width="50px" style="padding-right:10px;" src="https://cdn.simpleicons.org/pfsense/212121" />
+<img align="left" alt="Cisco" width="50px" style="padding-right:10px;" src="https://cdn.simpleicons.org/cisco/1BA0D7" />
+<img align="left" alt="Microsoft Office" width="50px" style="padding-right:10px;" src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product-fluent/svg/office_48x1.svg" />
+<img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="SSH" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+<img align="left" alt="SSH" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/438984/ssh.svg" />
+<img align="left" alt="Mac" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 
 
-
-
-                           
+<br><br>
+                        
 
 <br />
 
@@ -43,7 +52,6 @@
 |---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
 |[Help Desk Support ](https://github.com/Dunywa/Help-Desk-Support.git)        | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN|Setting up remote support tools and supporting remote users                                                                            |
 |Active Directory          | Active Directory Management|Active Directory Deployment, Windows client domain join, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|Windows Server 2022, Windows 10/11, Active Directory, Group Policy|Managing organisational units users, groups, and computers using Active Directory|    
-|Windows Server Admin      |Windows Server Deployment|Virtualization,Windows Server Administration,Windows Server Networking Services|Windows Server 2022 Core, VMWare, DNS, DHCP| Deploying Windows Servers in a virtualized environment|
 |End User Training         |Office 365 and Zoom Training Program |User Training, Office 365 suite  |Zoom, Outlook, Word, Teams, Sharepoint, Onedrive| Training users on using collaboration tools                                                                              |
 |Help Desk Support         |Ticketing System Deployment and Technical Documentation|Ticketing system Deployment, Ticket Management, Documentation, and Maintaining a Knowledgebase |Jira, Spiceworks, Peppermint, ServiceNow|Deploying a self-hosted ticketing system using docker image, Managing tickets, and doing Thorough Documentation.                                            |              
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
