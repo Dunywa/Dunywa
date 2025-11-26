@@ -51,8 +51,7 @@
 |---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
 |[Help Desk Support ](https://github.com/Dunywa/Help-Desk-Support.git)        | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN|Setting up remote support tools and supporting remote users                                                                            |
 |Active Directory          | Active Directory Management|Active Directory Deployment, Windows client domain join, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|Windows Server 2022, Windows 10/11, Active Directory, Group Policy|Managing organisational units users, groups, and computers using Active Directory|    
-|End User Training         |Office 365 and Zoom Training Program |User Training, Office 365 suite  |Zoom, Outlook, Word, Teams, Sharepoint, Onedrive| Training users on using collaboration tools                                                                              |
-|Help Desk Support         |Ticketing System Deployment and Technical Documentation|Ticketing system Deployment, Ticket Management, Documentation, and Maintaining a Knowledgebase |Jira, Spiceworks, Peppermint, ServiceNow|Deploying a self-hosted ticketing system using docker image, Managing tickets, and doing Thorough Documentation.                                            |              
+                                   |              
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Certifications
@@ -61,9 +60,7 @@
 <div>
     <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Certified%20Cybersecurity%20Defense%20Analyst-4B275F?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSI%20Linux%20Certified%20Investigator-005571?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Qualys_PCI_Compliance-D52B1E?&style=for-the-badge&logo=qualys&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Security%20Operations%20Analyst%20Associate-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />    
+<img src="https://img.shields.io/badge/-CSI%20Linux%20Certified%20Investigator-005571?&style=for-the-badge" />   
 <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate%20Cybersecurity-5172B4?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_IT_Support-4B275F?&style=for-the-badge&logo=google&logoColor=white" />
