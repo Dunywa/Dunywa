@@ -1,6 +1,6 @@
 # IT Support Technician Portfolio
 
-## 👋Hi, this is Mvula Dunywa.
+## 👋Hi, this is Mvula.
 
 <a href="https://www.linkedin.com/in/mvuladunywa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -49,9 +49,9 @@ My goal is to demonstrate my ability to support modern IT environments, contribu
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Projects Overview
-|  Category                |     Project          |                 Skills                          |     Tools                      | Lessons Learned                                                             |     
-|---------------------     |      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
-|[Help Desk Support ](https://github.com/Dunywa/Help-Desk-Support.git)        | Remote Support       |Remote Tools setup, Windows Remoting, Linux Remoting| RDP, Putty, SSH, VPN|Setting up remote support tools and supporting remote users                                                                            |
+|     Project          |                 Skills                          |     Tools                      | Lessons Learned                                                             |     
+|      --------------- | -------------------------------------           | ---------------                | -------------------                                                         |
+|[Multi-Site Active Directory Deployment ](https://github.com/Dunywa/Help-Desk-Support.git) |DNS,DHCP,AD| Azure VM, Windows Server 2016 - 2025|Setting up remote support tools and supporting remote users                                                                            |
 |Active Directory          | Active Directory Management|Active Directory Deployment, Windows client domain join, Shared Drive Permissions, Configuration Management, Password Resets, Account Unlocks|Windows Server 2022, Windows 10/11, Active Directory, Group Policy|Managing organisational units users, groups, and computers using Active Directory|    
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
