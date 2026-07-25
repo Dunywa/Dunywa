@@ -29,7 +29,6 @@ My goal is to demonstrate my ability to support modern IT environments, contribu
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="left" alt="Office 365" width="50px" style="padding-right:10px;" src="https://icon-library.com/images/office-365-icon/office-365-icon-23.jpg" />
 <img align="left" alt="Windows" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="PowerShell" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Git"           width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -68,6 +67,8 @@ My goal is to demonstrate my ability to support modern IT environments, contribu
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_IT_Support-4B275F?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Detection_And_Response-D52B1E?&style=for-the-badge&logo=qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_365_Endpoint_Administrator_Associate_(MD--102)-0078D4?&style=for-the-badge&logo=microsoftintune&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_365_Certified_Fundamentals_(MS--900)-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 
     
 </div>
