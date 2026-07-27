@@ -11,6 +11,7 @@ I'm a hands-on IT Support Technician specializing in troubleshooting, infrastruc
 
 My experience includes:
 - Microsoft 365 & Endpoint Management
+- MSP Tools - RMM, PSA, IT Documentation
 - Active Directory & Windows Server
 - Azure Administration
 - Networking & Firewall Support
